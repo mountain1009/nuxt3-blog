@@ -1,0 +1,5 @@
+<template>
+  <section>
+    <h2>Foo</h2>
+  </section>
+</template>
